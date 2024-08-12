@@ -46,9 +46,9 @@ Conversion rates drop significantly for larger groups, suggesting challenges in 
 
 Faster response times from hosts are correlated with higher booking rates.
 
-![Diserbution of response time in hours by bookes](images/time_diff_hourS.png)
+![Diserbution of response time in hours by bookes](images/time_diff_hours.png)
 
-*Geographical Insights:*
+**Geographical Insights:**
 
 The majority of searches come from within Ireland, followed by the United States and the United Kingdom, indicating Dublin's appeal to both local and international travelers.
 
