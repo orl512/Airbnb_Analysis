@@ -27,9 +27,9 @@ Most searches are for 1 or 2 guests, indicating a preference for smaller accommo
 
 Users predominantly search for short stays, with a high concentration of searches for weekend check-ins (Friday and Saturday).
 
-![Check-in by the day of the week](images/heck-in by the day of the week.png)
+![Check-in by the day of the week](images/Check-in_by_day_week.png)
 
-![Number of Nights](images/Number of Nights.png)
+![Number of Nights](images/Number_of_Nights.png)
 
 75% of users search for accommodations 1-2 months in advance, though there is a significant number of last-minute searches.
 Host Inquiries and Booking Patterns:
