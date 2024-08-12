@@ -24,7 +24,7 @@ Origin Country of Searches: Identifying the geographical origin of searches to t
 
 Most searches are for 1 or 2 guests, indicating a preference for smaller accommodations.
 
-
+![searched number of guests](images/n_guests_max.png)
 
 Users predominantly search for short stays, with a high concentration of searches for weekend check-ins (Friday and Saturday).
 
@@ -34,7 +34,7 @@ Users predominantly search for short stays, with a high concentration of searche
 
 75% of users search for accommodations 1-2 months in advance, though there is a significant number of last-minute searches.
 
-![Number of Nights](images/Number_of_Nights.png)
+![Disterbution of day searched in advanced](images/day_diff.png)
 
 Host Inquiries and Booking Patterns:
 
