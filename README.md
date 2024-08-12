@@ -28,6 +28,11 @@ Most searches are for 1 or 2 guests, indicating a preference for smaller accommo
 Users predominantly search for short stays, with a high concentration of searches for weekend check-ins (Friday and Saturday).
 
 ![Check-in by the day of the week](images/Check-in_by_day_week.png)
+<img src="images/check-in_by_day_of_week.png" alt="Check-in by the day of the week" width="300"/>
+<img src="images/number_of_nights.png" alt="Number of Nights" width="300"/>
+<img src="images/check-in_by_day_of_week.png" alt="Check-in by the day of the week" width="50%"/>
+<img src="images/number_of_nights.png" alt="Number of Nights" width="50%"/>
+
 
 ![Number of Nights](images/Number_of_Nights.png)
 
