@@ -2,6 +2,7 @@
 
 ## North Star Metrics and Key Dimensions:
 ==========================================
+
 **Booking Conversion Rate-** The percentage of users who proceed from searching and making inquiries to completing a booking.
 **Inquiry Conversion Rate-** The percentage of users who, after searching, make an inquiry to a host
 Higher inquiry conversion rates suggest that listings are appealing and relevant to users’ needs.
@@ -18,7 +19,6 @@ Origin Country of Searches: Identifying the geographical origin of searches to t
 ----
 
 ## Guest Search Behavior:
------
 
 Most searches are for 1 or 2 guests, indicating a preference for smaller accommodations.
 ![Distribution of Guest Group Sizes](images/chart.png)
