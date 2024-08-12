@@ -4,6 +4,7 @@
 ===============================
 
 **Booking Conversion Rate-** The percentage of users who proceed from searching and making inquiries to completing a booking.
+
 **Inquiry Conversion Rate-** The percentage of users who, after searching, make an inquiry to a host
 Higher inquiry conversion rates suggest that listings are appealing and relevant to users’ needs.
 
@@ -24,8 +25,8 @@ Origin Country of Searches: Identifying the geographical origin of searches to t
 Most searches are for 1 or 2 guests, indicating a preference for smaller accommodations.
 ![Distribution of Guest Group Sizes](images/chart.png)
 Users predominantly search for short stays, with a high concentration of searches for weekend check-ins (Friday and Saturday).
-![Check-in by the day of the week](Check-in by the day of the week/imeges.png)
-![Number of Nights](CNumber of Nights/imeges.png)
+![Check-in by the day of the week](Check-in by the day of the week/images.png)
+![Number of Nights](CNumber of Nights/images.png)
 75% of users search for accommodations 1-2 months in advance, though there is a significant number of last-minute searches.
 Host Inquiries and Booking Patterns:
 
