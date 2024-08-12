@@ -1,13 +1,15 @@
 # Airbnb_Analysis
 
 ## North Star Metrics and Key Dimensions:
----
+==========================================
 **Booking Conversion Rate-** The percentage of users who proceed from searching and making inquiries to completing a booking.
 **Inquiry Conversion Rate-** The percentage of users who, after searching, make an inquiry to a host
 Higher inquiry conversion rates suggest that listings are appealing and relevant to users’ needs.
 
 **Guest Group Size:** Understanding the typical group size helps tailor accommodations to meet demand.
+
 **Search Lead Time:** The time between when a user searches for accommodation and their intended check-in date. This dimension helps in optimizing pricing strategies and inventory management.
+
 **Room Type Preference:** The types of accommodations users prefer, which guides hosts in listing and marketing their properties effectively.
 Origin Country of Searches: Identifying the geographical origin of searches to tailor marketing strategies and listing content.
 **Stay Duration and Check-in Days:** Patterns in the length of stay and preferred check-in days, useful for creating targeted promotions and flexible booking options.
