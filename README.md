@@ -10,6 +10,21 @@ Room Type Preference: The types of accommodations users prefer, which guides hos
 Origin Country of Searches: Identifying the geographical origin of searches to tailor marketing strategies and listing content.
 Stay Duration and Check-in Days: Patterns in the length of stay and preferred check-in days, useful for creating targeted promotions and flexible booking options.
 
+Summary of Insights
+Guest Search Behavior:
+
+Most searches are for 1 or 2 guests, indicating a preference for smaller accommodations.
+Users predominantly search for short stays, with a high concentration of searches for weekend check-ins (Friday and Saturday).
+75% of users search for accommodations 1-2 months in advance, though there is a significant number of last-minute searches.
+Host Inquiries and Booking Patterns:
+
+Over half of users make inquiries after searching, but only about 23.68% convert into bookings.
+Conversion rates drop significantly for larger groups, suggesting challenges in finding suitable accommodations.
+Faster response times from hosts are correlated with higher booking rates.
+Geographical Insights:
+
+The majority of searches come from within Ireland, followed by the United States and the United Kingdom, indicating Dublin's appeal to both local and international travelers.
+
 Recommendations
 Optimize Listings for Smaller Groups: Focus on enhancing smaller accommodations, such as studios or one-bedroom apartments, to cater to the predominant market segment of solo travelers and couples.
 
