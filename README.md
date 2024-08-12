@@ -42,10 +42,13 @@ Users predominantly search for short stays, with a high concentration of searche
 
 Conversion rates drop significantly for larger groups, suggesting challenges in finding suitable accommodations.
 
-![Disterbution of day searched in advanced](images/day_diff.png)
+![Conversion rate by #guests](images/c_r_by_n_guests.png)
+
 Faster response times from hosts are correlated with higher booking rates.
 
-Geographical Insights:
+![Diserbution of response time in hours by bookes](images/time_diff_hour.png)
+
+*Geographical Insights:*
 
 The majority of searches come from within Ireland, followed by the United States and the United Kingdom, indicating Dublin's appeal to both local and international travelers.
 
