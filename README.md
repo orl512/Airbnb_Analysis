@@ -1,7 +1,7 @@
 # Airbnb_Analysis
 
 ## North Star Metrics and Key Dimensions:
-==========================================
+===============================
 
 **Booking Conversion Rate-** The percentage of users who proceed from searching and making inquiries to completing a booking.
 **Inquiry Conversion Rate-** The percentage of users who, after searching, make an inquiry to a host
