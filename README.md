@@ -28,7 +28,7 @@ Most searches are for 1 or 2 guests, indicating a preference for smaller accommo
 
 Users predominantly search for short stays, with a high concentration of searches for weekend check-ins (Friday and Saturday).
 
-![Check-in by the day of the week](images/Check-in_by_day_week.png)
+![Check-in by the day of the week](images/D_O_W.png)
 
 ![Number of Nights](images/Number_of_Nights.png)
 
@@ -42,11 +42,11 @@ Users predominantly search for short stays, with a high concentration of searche
 
 Conversion rates drop significantly for larger groups, suggesting challenges in finding suitable accommodations.
 
-![Conversion rate by #guests](images/c_r_by_n_guests.png)
+![Conversion rate by #guests](images/C_R_N_G.png)
 
 Faster response times from hosts are correlated with higher booking rates.
 
-![Diserbution of response time in hours by bookes](images/time_diff_hour.png)
+![Diserbution of response time in hours by bookes](images/time_diff_hourS.png)
 
 *Geographical Insights:*
 
